@@ -63,5 +63,5 @@ What's name of the city you grew up in?
 [input1]
 What's your pet's name?
 [input2]
-Your band name could be [input1] [input2.]
+Your band name could be [input1] [input2]
 ```
